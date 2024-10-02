@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGroth16", "TestGroth16\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBn254", "TestBn254\TestBn254.csproj", "{E0187589-2E65-4B18-881C-9388C21E1192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPosiedon", "TestPosiedon\TestPosiedon.csproj", "{E8B5AE3F-24C3-4DD3-BB52-A8C7CE66B648}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPoseidon", "TestPoseidon\TestPoseidon.csproj", "{E8B5AE3F-24C3-4DD3-BB52-A8C7CE66B648}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
